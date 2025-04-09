@@ -1,0 +1,112 @@
+[
+    {
+      "pet_name": "Jaquenetta",
+      "breed": "Labrador",
+      "age": 1.4,
+      "peso": 134.8,
+      "vacunas": false,
+      "ultima_vacunacion": "4/7/2005",
+      "owner_name": "Jaquenetta Rowntree",
+      "owner_email": "jdreakin0@craigslist.org",
+      "vet_name": "Jaquenetta Dreakin"
+    },
+    {
+      "pet_name": "Francklin",
+      "breed": "Siames",
+      "age": 11.7,
+      "peso": 72.3,
+      "vacunas": true,
+      "ultima_vacunacion": "1/21/2015",
+      "owner_name": "Francklin Tansill",
+      "owner_email": "fharbidge1@acquirethisname.com",
+      "vet_name": "Francklin Harbidge"
+    },
+    {
+      "pet_name": "Julianne",
+      "breed": "Siames",
+      "age": 16.5,
+      "peso": 102.3,
+      "vacunas": false,
+      "ultima_vacunacion": "10/20/2011",
+      "owner_name": "Julianne Kinnier",
+      "owner_email": "jsagrott2@apple.com",
+      "vet_name": "Julianne Sagrott"
+    },
+    {
+      "pet_name": "Willy",
+      "breed": "pastor aleman",
+      "age": 17.2,
+      "peso": 95.9,
+      "vacunas": false,
+      "ultima_vacunacion": "4/27/2022",
+      "owner_name": "Willy Taylour",
+      "owner_email": "wgrassi3@goo.gl",
+      "vet_name": "Willy Grassi"
+    },
+    {
+      "pet_name": "Ludovico",
+      "breed": "pastor aleman",
+      "age": 15.5,
+      "peso": 165,
+      "vacunas": false,
+      "ultima_vacunacion": "10/25/2017",
+      "owner_name": "Ludovico Sergeaunt",
+      "owner_email": "lcorke4@earthlink.net",
+      "vet_name": "Ludovico Corke"
+    },
+    {
+      "pet_name": "Gilberta",
+      "breed": "Labrador",
+      "age": 16.9,
+      "peso": 49.8,
+      "vacunas": true,
+      "ultima_vacunacion": "11/12/2002",
+      "owner_name": "Gilberta Tilby",
+      "owner_email": "grawll5@google.com.au",
+      "vet_name": "Gilberta Rawll"
+    },
+    {
+      "pet_name": "Marianna",
+      "breed": "Siames",
+      "age": 11.9,
+      "peso": 113.4,
+      "vacunas": false,
+      "ultima_vacunacion": "10/31/2012",
+      "owner_name": "Marianna Stratiff",
+      "owner_email": "mrendbaek6@ucsd.edu",
+      "vet_name": "Marianna Rendbaek"
+    },
+    {
+      "pet_name": "Roxine",
+      "breed": "pastor aleman",
+      "age": 5.5,
+      "peso": 33.3,
+      "vacunas": false,
+      "ultima_vacunacion": "6/25/2001",
+      "owner_name": "Roxine Spensley",
+      "owner_email": "rwollacott7@comsenz.com",
+      "vet_name": "Roxine Wollacott"
+    },
+    {
+      "pet_name": "Allyn",
+      "breed": "Siames",
+      "age": 19.8,
+      "peso": 173.8,
+      "vacunas": true,
+      "ultima_vacunacion": "2/26/2019",
+      "owner_name": "Allyn Brabbins",
+      "owner_email": "aadnams8@tripod.com",
+      "vet_name": "Allyn Adnams"
+    },
+    {
+      "pet_name": "Gayle",
+      "breed": "Siames",
+      "age": 13.1,
+      "peso": 89.1,
+      "vacunas": true,
+      "ultima_vacunacion": "5/17/2014",
+      "owner_name": "Gayle Blakeney",
+      "owner_email": "gkix9@nifty.com",
+      "vet_name": "Gayle Kix"
+    }
+  ]
