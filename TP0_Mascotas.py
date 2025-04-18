@@ -56,7 +56,7 @@ df=pd.DataFrame(hamsterHiperactivo)
 df.to_csv("hamsterHiperactivos_exportados.csv", index=False)
 
 # Convertir si hay fechas en formato string dentro del dataset al formato correcto para analisis
-#Formato fecha: dd/mm/aa TDA: datetime
+
 doc_con_str = coleccion.find_one({"ultima_vacunacion": {"$type": "string"}})
 if doc_con_str:
     for doc in coleccion.find({"ultima_vacunacion": {"$type": "string"}}):
